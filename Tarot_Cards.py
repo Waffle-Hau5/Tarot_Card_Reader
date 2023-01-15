@@ -121,10 +121,3 @@ for i in range(3):
     tense = ["Past:", "Present:", "Future:"]
     print(f"\n[Card {i+1}]\n{tense[i]}")
     draw_card()
-
-#print("\n[Card 1]\nPast:")
-#draw_card()
-#print("\n[Card 2]\nPresent:")
-#draw_card()
-#print("\n[Card 3]\nFuture:")
-#draw_card()
