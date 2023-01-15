@@ -1,2 +1,2 @@
 # Tarot_Card_Reader
-Reads your "fortune", thinking of making it a fully fleshed out GUI eventually
+Reads your "fortune", going to make it a fully fleshed out GUI eventually with Tk..
